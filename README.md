@@ -28,8 +28,8 @@ chmod +x main
 ./main +62xxxxxxxxxxxxx
 ```
 ### Menjalankan akun dengan config
-Silahkan bikin, buka dan edit nama config .json nya
-contoh `alias_config.json`
+Silahkan bikin, buka dan edit config.json nya
+contoh `config.json`
 ```
 {
   "alias": "alias_config",
@@ -39,7 +39,7 @@ contoh `alias_config.json`
 ```
 baru bisa kita jalankan
 ```
-./main -c alias_config
+./main -c config
 ```
 ## Diclaimers
 Kami sepenuhnya tidak bertanggung jawab dengan yang terjadi pada apa yang terjadi pada akun anda. Jadi silahkan gunakan kebijaksanaan dalam penggunaan nya
