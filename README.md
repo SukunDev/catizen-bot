@@ -16,7 +16,7 @@ Script untuk automisasi Bot [Catizen](https://t.me/catizenbot/gameapp?startapp=r
 Untuk cara install nya kalian dapat mengikuti perintah ini
 ### Cloning
 ```bash
-git clone https://github.com/SukunDev/catizen-bo.git
+git clone https://github.com/SukunDev/catizen-bot.git
 cd catizen-bot
 ```
 ### Memberikan akses permisi kedalam script
